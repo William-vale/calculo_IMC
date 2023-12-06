@@ -6,10 +6,10 @@ Este é um simples aplicativo web projetado para calcular e fornecer informaçõ
 
 1. **Preencha as Informações:**
    - Insira seu peso em quilogramas.
-   - Insira sua altura em metros.
+   - Insira sua altura em centimetros.
 
 2. **Calcule seu IMC:**
-   - Clique no botão de "Calcular IMC".
+   - Clique no botão de "Calcular".
 
 3. **Resultados:**
    - O aplicativo fornecerá seu IMC.
@@ -35,10 +35,6 @@ Este é um simples aplicativo web projetado para calcular e fornecer informaçõ
 3. Crie uma branch para a sua contribuição.
 4. Faça as alterações desejadas.
 5. Envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
