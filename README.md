@@ -31,6 +31,13 @@ Este é um simples aplicativo web projetado para calcular e fornecer informaçõ
 ## Visualizações do Projeto
 
 ### Calculadora de IMC
+
+#### Desktop
+
+![Calculadora de IMC](./img/img-projeto.png)
+
+#### Mobile
+
 ![Calculadora de IMC](./img/img-projeto.png)
 
 ## Como Contribuir
