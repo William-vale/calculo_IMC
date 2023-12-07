@@ -28,6 +28,11 @@ Este é um simples aplicativo web projetado para calcular e fornecer informaçõ
 - **Front-end:**
   - HTML, CSS, JavaScript
 
+## Visualizações do Projeto
+
+### Calculadora de IMC
+![Calculadora de IMC]('./img/img-projeto.png')
+
 ## Como Contribuir
 
 1. Faça um fork do repositório.
